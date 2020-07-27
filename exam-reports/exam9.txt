@@ -1,0 +1,33 @@
+Exam report for exam9 / xinyey2
+
+
+                 Question ID PL Score Recorded Score
+----------------------------------------------------
+            avl-max-nodes-1b        1              1
+            avl-min-nodes-1a        1              1
+      avl-time-complexity-1e        1              1
+        mc-avl-rotation-002b        1              1
+        mc-avl-rotation-003e        1              1
+        mc-avl-rotation-004b        1              1
+         mc-btree-insert-01c        1              1
+         mc-btree-insert-02a        1              1
+      mc-btree-motivation-1b        1              1
+  mc-btree-node-capacity-02c        1              1
+          mc-kdtree-child-1e        0              0
+           mc-kdtree-tree-1e        1              1
+mc-nearest-neighbor-which-1a        1              1
+           quiz12-btreemax-d        1              1
+           quiz12-btreemin-c        1              1
+----------------------------------------------------
+                       Total       14             14
+
+
+
+Questions are marked 1 for correct, 0 for incorrect.
+Scores are normalized for the gradebook.
+
+PL Score = Score recorded by PrairieLearn.
+Recored Score = Score in our gradebook (accounting for possible overrides/regrades).
+
+If you believe there is an error, please send email (NOT piazza) to <mattox@illinois.edu>.
+

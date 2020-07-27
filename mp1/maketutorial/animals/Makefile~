@@ -1,0 +1,2 @@
+dog.o : dog.cpp dog.hpp
+	clang++ -c main.cpp
